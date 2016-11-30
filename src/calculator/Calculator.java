@@ -43,8 +43,6 @@ public class Calculator extends JFrame {
         super("Usman's Calculator");
         setLayout( new BorderLayout() );
 
-
-
         JPanel digitPanel = new JPanel( new GridLayout( 4, 3 ) );
         JPanel funcBPanel = new JPanel( new GridLayout( 2 , 3 ) );
         JPanel equalBPanel = new JPanel( new GridLayout( 1 , 1 ) );
