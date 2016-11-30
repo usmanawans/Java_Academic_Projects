@@ -1,7 +1,7 @@
 import java.io.File;
 
 /**
- * Created by donald on 14.04.16.
+ * Created on 14.04.16.
  */
 public class Test {
 
