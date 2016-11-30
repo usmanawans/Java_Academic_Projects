@@ -1,3 +1,5 @@
+package Threads;
+
 class Monitor {
     String [] array;
     boolean available = false;

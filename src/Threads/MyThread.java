@@ -1,3 +1,5 @@
+
+package Threads;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -5,7 +7,7 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 /**
- * Created by donald on 14.04.16.
+ * Created on 14.04.16.
  */
 public class MyThread extends Thread{
     String[] arrStr;
