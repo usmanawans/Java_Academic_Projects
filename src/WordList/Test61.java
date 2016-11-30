@@ -14,7 +14,6 @@ public class Test61{
         andreOrd.oekAntall();
         System.out.println("Tester: oeker Antall");        
         System.out.println("Ordet: "+andreOrd.toString()+" har naa antall " +andreOrd.hentAntall());
-        
     
     }
     
