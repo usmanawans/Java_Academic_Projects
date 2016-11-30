@@ -332,7 +332,7 @@ public class Calculator extends JFrame {
         equalBPanel.add( equal );
     }
 
-    // method to covert string of screen into double value
+    // method to covert string of screen into double value.
     public double toValue( String str )
     {
         return Double.parseDouble( str );
